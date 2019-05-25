@@ -1,0 +1,22 @@
+body {
+  background-color: linen;
+  background-image:url(sam.jpg);
+  background-size:640px 940px;
+}
+h2 {
+  color: blue;
+  border-style:solid;
+}
+p{
+	font-weight:bold;
+}
+
+#hr1{
+  border-top: 1px solid red;
+  
+}
+img{
+	border-radius: 25%;
+	width:130px;
+	height:150px;
+}
